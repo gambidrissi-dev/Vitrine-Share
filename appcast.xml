@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/Vitrine-Share</link>
     <description>Mises à jour de Vitrine</description>
     <item>
+      <title>Version 1.3.0</title>
+      <description><![CDATA[
+<h3>Vitrine passe en barre de menu (MenuBarExtra), sans icône dans le Dock</h3>
+      ]]></description>
+      <pubDate>Fri, 02 Oct 2026 23:15:42 +0000</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/Vitrine-Share/releases/download/v1.3.0/Vitrine-1.3.0.zip"
+                 sparkle:edSignature="cyo4V39f7hZ/0eloRDLizNZwdBRqiUKtPCOYjr0D+MCgVhMCT9PzRAcGwQcE0VcHBw7XLXpIKgG4pITMcf2YBw=="
+                 length="1447372"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.2.0</title>
       <description><![CDATA[
 <h3>Nouvelle clé publique Sparkle : l'ancienne clé privée est perdue</h3>
