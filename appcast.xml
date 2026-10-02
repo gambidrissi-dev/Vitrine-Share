@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/Vitrine-Share</link>
     <description>Mises à jour de Vitrine</description>
     <item>
+      <title>Version 1.2.0</title>
+      <description><![CDATA[
+<h3>Nouvelle clé publique Sparkle : l'ancienne clé privée est perdue</h3>
+      ]]></description>
+      <pubDate>Fri, 02 Oct 2026 22:48:49 +0000</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/Vitrine-Share/releases/download/v1.2.0/Vitrine-1.2.0.zip"
+                 sparkle:edSignature="xz4RIu93um0dOMIFQtUIZ40ALvEeDezjrxApejP1Af5Aqw19qqKWGvgwRiFwkMNfxRM0b7ghB028kAIri39fBg=="
+                 length="1447440"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.1.1</title>
       <description><![CDATA[
 <h3>Nouvelle clé publique Sparkle : l'ancienne clé privée est perdue</h3>
