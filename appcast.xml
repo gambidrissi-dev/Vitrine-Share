@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/Vitrine-Share</link>
     <description>Mises à jour de Vitrine</description>
     <item>
+      <title>Version 1.5.2</title>
+      <description><![CDATA[
+<h3>Vitrine affiche la version réellement installée : Info.plist relu sur le disque (Bundle(url:) gardait l'ancienne en cache), rafraîchissement à chaque activation</h3>
+      ]]></description>
+      <pubDate>Sun, 04 Oct 2026 19:55:46 +0000</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>1.5.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/Vitrine-Share/releases/download/v1.5.2/Vitrine-1.5.2.zip"
+                 sparkle:edSignature="e7gcYWXVXtYl1q5ix6Dea0KtQJOUEyHm1ZXFB4TBEsA5jMkISWxa4yRbL8kerb7co0kJGuXRW/KPxwB/b7xWCw=="
+                 length="1489493"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.5.1</title>
       <description><![CDATA[
 <h3>Vitrine ne voit plus que les copies de /Applications et ~/Applications : elle mettait à jour les builds de dev (dépôt, DerivedData)</h3>
