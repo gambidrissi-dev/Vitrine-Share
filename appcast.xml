@@ -5,6 +5,21 @@
     <link>https://github.com/gambidrissi-dev/Vitrine-Share</link>
     <description>Mises à jour de Vitrine</description>
     <item>
+      <title>Version 1.5.4</title>
+      <description><![CDATA[
+<h3>« Relancer » quand une mise à jour attend</h3>
+<ul><li>Une app mise à jour sur le disque mais encore ouverte dans l'ancienne version s'affiche en orange, avec un bouton <b>Relancer</b>.</li></ul>
+      ]]></description>
+      <pubDate>Sun, 04 Oct 2026 20:40:50 +0000</pubDate>
+      <sparkle:version>17</sparkle:version>
+      <sparkle:shortVersionString>1.5.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/Vitrine-Share/releases/download/v1.5.4/Vitrine-1.5.4.zip"
+                 sparkle:edSignature="CwriYiu7Pwk/7+5YdeghpShL/my9q6y7QBkIhfMwRnITZo6IMNO+8A5WQSlQfyJA9pxtC1w04/MgSU9Bi9ikCA=="
+                 length="1498054"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.5.3</title>
       <description><![CDATA[
 <h3>Les nouvelles versions apparaissent en moins d'une minute</h3>
