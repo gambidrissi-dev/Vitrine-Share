@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/Vitrine-Share</link>
     <description>Mises à jour de Vitrine</description>
     <item>
+      <title>Version 2.0.0</title>
+      <description><![CDATA[
+<h3>Lien vers la page de téléchargement dans le panneau</h3>
+      ]]></description>
+      <pubDate>Wed, 07 Oct 2026 21:02:06 +0000</pubDate>
+      <sparkle:version>19</sparkle:version>
+      <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/Vitrine-Share/releases/download/v2.0.0/Vitrine-2.0.0.zip"
+                 sparkle:edSignature="4D5Ll5UddbiF3XbZRyQJE3xCyHajLMg/ZSveR7R63J3904PJslfcfPR7AVPii8ZcNWBy1M0NEmvFrLQyxg71BA=="
+                 length="1485005"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.5.5</title>
       <description><![CDATA[
 <h3>GambiOS retiré du catalogue</h3>
