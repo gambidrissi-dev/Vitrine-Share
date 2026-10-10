@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/Vitrine-Share</link>
     <description>Mises à jour de Vitrine</description>
     <item>
+      <title>Version 2.0.2</title>
+      <description><![CDATA[
+<h3>Vitrine voit une version tout juste publiée. L'appcast se lisait par l'API GitHub en ignorant le cache HTTP : cinq apps à chaque ouverture du panneau épuisaient les 60 appels par heure, et le repli sur raw.githubusercontent resservait l'appcast d'avant la publication (cache CDN de 5 min, qu'un ?t= ne contourne pas — vérifié). Halo 6.0.0 restait ainsi invisible. La requête suit maintenant le cache HTTP : l'API dit max-age=60 et donne un ETag, donc passé 60 s URLSession revalide, et un 304 ne compte pas dans le quota.</h3>
+      ]]></description>
+      <pubDate>Sat, 10 Oct 2026 12:34:51 +0000</pubDate>
+      <sparkle:version>21</sparkle:version>
+      <sparkle:shortVersionString>2.0.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/Vitrine-Share/releases/download/v2.0.2/Vitrine-2.0.2.zip"
+                 sparkle:edSignature="WU42/bLvPCkWwdZfScqmRKCjndj2U4pSggQhcCwoL41R86sFZpm3S3r3EzgsEzVLJ7Xz00vMGp+kuV357ihgDg=="
+                 length="1487209"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 2.0.1</title>
       <description><![CDATA[
 <h3>Sparkle contourne le cache de raw.githubusercontent : une version tout juste publiée est trouvée tout de suite</h3>
