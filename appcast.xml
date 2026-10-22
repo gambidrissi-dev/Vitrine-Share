@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/Vitrine-Share</link>
     <description>Mises à jour de Vitrine</description>
     <item>
+      <title>Version 2.0.4</title>
+      <description><![CDATA[
+<h3>Vitrine 2.0.4 — La liste des apps défile. Avec onze apps, elle dépassait la hauteur de l'écran et cachait les boutons du bas (Tout installer / mettre à jour, Rechercher les mises à jour de Vitrine, Quitter) ; ils restent maintenant toujours visibles. La phrase d'accueil ne cite plus seulement quatre apps.</h3>
+      ]]></description>
+      <pubDate>Thu, 22 Oct 2026 21:42:16 +0000</pubDate>
+      <sparkle:version>23</sparkle:version>
+      <sparkle:shortVersionString>2.0.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/Vitrine-Share/releases/download/v2.0.4/Vitrine-2.0.4.zip"
+                 sparkle:edSignature="+ttJ1TBKe+5KXbdSeR55Rp3N6iNLquJHWt4XcyU91pgy2bMbAokXrmbhHxaJJSGcLMDEeLQuxEYcNRaETEi2CA=="
+                 length="1637680"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 2.0.3</title>
       <description><![CDATA[
 <h3>Vitrine 2.0.3 — Skillothèque quitte le catalogue : elle fait désormais partie de Halo (8.1), dans la page Skills de la barre latérale. Si tu l'avais installée, tu peux la supprimer de tes Applications ; Halo reprend ta bibliothèque de skills.</h3>
