@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/Vitrine-Share</link>
     <description>Mises à jour de Vitrine</description>
     <item>
+      <title>Version 2.0.5</title>
+      <description><![CDATA[
+<h3>Vitrine propose MiniDock</h3>
+      ]]></description>
+      <pubDate>Tue, 03 Nov 2026 23:51:32 +0000</pubDate>
+      <sparkle:version>24</sparkle:version>
+      <sparkle:shortVersionString>2.0.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/Vitrine-Share/releases/download/v2.0.5/Vitrine-2.0.5.zip"
+                 sparkle:edSignature="nS4IR/nbuMLgcuQdBo/Hz3FHUVY18DpIdqyogbJT1Vi1Kud2hpihjCiWDJgvbkUR5wDpWCWeMlxk+kQ39FLlAA=="
+                 length="1679120"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 2.0.4</title>
       <description><![CDATA[
 <h3>Vitrine 2.0.4 — La liste des apps défile. Avec onze apps, elle dépassait la hauteur de l'écran et cachait les boutons du bas (Tout installer / mettre à jour, Rechercher les mises à jour de Vitrine, Quitter) ; ils restent maintenant toujours visibles. La phrase d'accueil ne cite plus seulement quatre apps.</h3>
