@@ -5,6 +5,21 @@
     <link>https://github.com/gambidrissi-dev/Vitrine-Share</link>
     <description>Mises à jour de Vitrine</description>
     <item>
+      <title>Version 2.0.6</title>
+      <description><![CDATA[
+<h3>Vitrine ne propose plus Bocal, Parure, C.Design, Entretien ni Édition</h3>
+<p>Bocal est redevenu la page Vidéos de PowerMac ; C.Design n'existe plus (Frame) ; Parure, Entretien et Édition restent des apps à part, qui se mettent à jour seules, sans passer par Vitrine.</p>
+      ]]></description>
+      <pubDate>Wed, 04 Nov 2026 00:06:17 +0000</pubDate>
+      <sparkle:version>25</sparkle:version>
+      <sparkle:shortVersionString>2.0.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/Vitrine-Share/releases/download/v2.0.6/Vitrine-2.0.6.zip"
+                 sparkle:edSignature="MUSgcnLgpFqatU9sGGieeAHrVn8Y9dd5qPjuYxcSL8yHhtrxlDPXEF7t+gSMUFcdq2LUC4tBogI7HAxwtBAICA=="
+                 length="1577508"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 2.0.5</title>
       <description><![CDATA[
 <h3>Vitrine propose MiniDock</h3>
