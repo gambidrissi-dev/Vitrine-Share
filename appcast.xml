@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/Vitrine-Share</link>
     <description>Mises à jour de Vitrine</description>
     <item>
+      <title>Version 2.0.9</title>
+      <description><![CDATA[
+<h3>Vitrine : Sillage revient au catalogue et sur la page de téléchargement</h3>
+      ]]></description>
+      <pubDate>Wed, 04 Nov 2026 23:19:49 +0000</pubDate>
+      <sparkle:version>28</sparkle:version>
+      <sparkle:shortVersionString>2.0.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/Vitrine-Share/releases/download/v2.0.9/Vitrine-2.0.9.zip"
+                 sparkle:edSignature="SapThsVUavZnpYH7troemtrvAp9vWz1sLu73C10NagLl2uDc5ekdiCLocbapHswI+bWDIr63zeC52wjdYNnrAg=="
+                 length="1514768"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 2.0.8</title>
       <description><![CDATA[
 <h3>Vitrine : PowerMac s'affiche Gambi_OS et reprend le Dock de MiniDock (carte MiniDock retirée)</h3>
