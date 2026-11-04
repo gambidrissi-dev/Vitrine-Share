@@ -5,6 +5,21 @@
     <link>https://github.com/gambidrissi-dev/Vitrine-Share</link>
     <description>Mises à jour de Vitrine</description>
     <item>
+      <title>Version 2.0.7</title>
+      <description><![CDATA[
+<h3>Vitrine : Sillage et TheOffice quittent le catalogue (et la page de téléchargement)</h3>
+<p>Leurs dépôts -Share sont privés : Vitrine ne pouvait plus lire leur version.</p>
+      ]]></description>
+      <pubDate>Wed, 04 Nov 2026 08:11:51 +0000</pubDate>
+      <sparkle:version>26</sparkle:version>
+      <sparkle:shortVersionString>2.0.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/Vitrine-Share/releases/download/v2.0.7/Vitrine-2.0.7.zip"
+                 sparkle:edSignature="81W/dLX1E8P5TALR0yhuObVwMp8jBYiyGNrXJ6Je+80AB8A9meIw/EzYdhmeCjMggccjrVUNRYrfJKR3HjaiAQ=="
+                 length="1531692"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 2.0.6</title>
       <description><![CDATA[
 <h3>Vitrine ne propose plus Bocal, Parure, C.Design, Entretien ni Édition</h3>
