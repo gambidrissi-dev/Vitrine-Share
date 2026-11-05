@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/Vitrine-Share</link>
     <description>Mises à jour de Vitrine</description>
     <item>
+      <title>Version 2.0.10</title>
+      <description><![CDATA[
+<h3>Trame : son -Share dans l'organisation Collectif-Cobalt (catalogue et page) ; propriétaire du -Share par app</h3>
+      ]]></description>
+      <pubDate>Thu, 05 Nov 2026 23:52:00 +0000</pubDate>
+      <sparkle:version>29</sparkle:version>
+      <sparkle:shortVersionString>2.0.10</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/Vitrine-Share/releases/download/v2.0.10/Vitrine-2.0.10.zip"
+                 sparkle:edSignature="Y/ZSMoAvmzK+IFrT2FUdsF6TGF10cX03YZrCX0FMPXAtXyDN5P2l77Q+hMFpemx0hWaG/wHoor3rOFc612uOBQ=="
+                 length="1515240"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 2.0.9</title>
       <description><![CDATA[
 <h3>Vitrine : Sillage revient au catalogue et sur la page de téléchargement</h3>
